@@ -1,0 +1,16 @@
+[
+    {
+        "school":"Sheffield Hallam University",
+        "degree":"Bachelor of Science",
+        "major":"Computer Science for Games",
+        "notes":"First class",
+        "range":"2019 - 2020"
+    },
+    {
+        "school":"ESAT",
+        "degree":"Higher National Diploma",
+        "major":"Computing and Systems Development",
+        "notes":"Merit",
+        "range":"2016 - 2019"
+    }
+]

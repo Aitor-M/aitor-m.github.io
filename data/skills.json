@@ -1,0 +1,35 @@
+[
+  {
+      "grouping":"Technologies",
+      "skills":[ 
+        "Unreal Engine 4",
+        {"name": "Unity", "icon": "unity_small"},
+        "DirectX 12",
+        "OpenGL", 
+        "SwiftUI", 
+        "AR Foundation (Unity)", 
+        "ARKit"]
+  },{
+      "grouping":"Languages",
+      "skills":[ "C", "C++", "HLSL", "Swift", "C#","Python","GLSL", "Markdown"]
+  },{
+    "grouping":"Tools & IDEs",
+    "skills":[ 
+      {"name": "Visual Studio", "icon":"visualstudio"}, 
+      {"name": "XCode", "icon":"apple"},
+      {"name": "Git"},
+      {"name": "Perforce"},
+      {"name": "Mercurial"}, 
+      {"name": "Bash", "icon":"terminal"} 
+      
+    ]
+  },
+  {
+      "grouping":"Agile Development",
+      "skills":[
+        {"name":"Trello"},
+        {"name":"ClickUp", "icon":"scrum"},
+        {"name":"Redmine", "icon":"scrum"}
+      ]
+  }
+]

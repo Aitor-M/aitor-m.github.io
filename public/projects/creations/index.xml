@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aitor Martinez</title>
+    <link>https://aitor-m.github.io/projects/creations/</link>
+    <description>Recent content in Projects on Aitor Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://aitor-m.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-time Graphics Library for Rasterized Pipelines</title>
+      <link>https://aitor-m.github.io/projects/creations/rtg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/rtg/</guid>
+      <description>This final year project aims to create a command-based Graphics Library that lets the user implement any advanced rasterized graphics techniques as easily as possible.The dissertation reflects the understanding of low-level APIs as well as advanced graphics techniques such as PBR and IBL.
+Features  DirectX 12 Physically Based Rendering Image Based Lighting Deferred Rendering Fully dynamic lights Shadow Mapping Normal Mapping Parallax Mapping  </description>
+    </item>
+    
+    <item>
+      <title>Old Town Stories</title>
+      <link>https://aitor-m.github.io/projects/creations/oldtown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/oldtown/</guid>
+      <description>Old Town Stories is a VR (Oculus Rift) shooter game made with Unreal Engine 4.
+Contribution  &amp;ldquo;VR integration: The player&amp;rsquo;s Pawn VR related input and hand animations integration.&amp;rdquo; VR optimization : Making sure the project had a stable 90 fps was a challenge due to the realistic look of the game. Some of the optimizations were: making sure there were no transparencies, level-streaming, using as simple as posible materials, HLODs, static lights&amp;hellip;&amp;quot; Magnetic Shield (gameplay): Shield which stops, accumulates and returns enemy bullets.</description>
+    </item>
+    
+    <item>
+      <title>Arena of Warfare</title>
+      <link>https://aitor-m.github.io/projects/creations/aow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/aow/</guid>
+      <description>Arena of Warfare is a tower defense mobile game for Android devices. The main goal is to defend your base against enemy soldiers, planes and tanks. Made with Unity.</description>
+    </item>
+    
+    <item>
+      <title>Gravity Shifter</title>
+      <link>https://aitor-m.github.io/projects/creations/gravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/gravity/</guid>
+      <description>Gravity Shifter is a 2D platformer game based on gravity, movement fluidity and slow motion.
+The Challenge Gravity Shifter is played by using just the two joysticks on the controller. UI included. It was a design request made by my professor @SuperLemonBits!</description>
+    </item>
+    
+    <item>
+      <title>Ray Castings Demo</title>
+      <link>https://aitor-m.github.io/projects/creations/raycasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/raycasting/</guid>
+      <description>This voxel terrain is a low-level (ARM assembly) implementation of height-map rendering used in old-school games.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<!-- {{ partial "breadcrumbs" . }} -->
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
+    {{ .Content }}
+    {{ with .Params.embed }}<iframe width="560" height="315" src="{{ . }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{ end }}
+    {{ with .Params.link }}<p>Project link: <a href="{{ . }}" target="_blank">{{ . }}</a></p>{{ end }}
+    {{ partial "techtags" . }}
+  </div>
+</section>
+{{ end }}
