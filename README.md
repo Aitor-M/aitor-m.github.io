@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Aitor-M/aitor-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Notes to myself
+This website is made with [Hugo](https://gohugo.io/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To publish new changes follow these steps:
+* Build
+```sh
+hugo -D
+```
+* Commit and push
+* Push changes in public folder to gh-pages subtree
+```
+git subtree push --prefix public origin gh-pages
+```
