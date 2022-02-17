@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Valencia, Spain"
-email = "aitor96mar@protonmail.com"
+email = "aitor96mar@pm.me"
 favicon = "/favicon.ico"
 firstName = "Aitor"
 lastName = "Martinez"
@@ -20,7 +20,7 @@ showExperience = true
 showOpenSource = false
 showProjects = true
 showPublications = false
-showQr = true
+showQr = false
 showSkills = true
 
 # [params.google]
