@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assembly on Aitor Martinez</title>
+    <link>https://aitor-m.github.io/tags/assembly/</link>
+    <description>Recent content in Assembly on Aitor Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://aitor-m.github.io/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ray Castings Demo</title>
+      <link>https://aitor-m.github.io/projects/creations/raycasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/raycasting/</guid>
+      <description>This voxel terrain is a low-level (ARM assembly) implementation of height-map rendering used in old-school games.</description>
+    </item>
+    
+  </channel>
+</rss>

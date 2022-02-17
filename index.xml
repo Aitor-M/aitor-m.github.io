@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Aitor Martinez</title>
+    <link>https://aitor-m.github.io/</link>
+    <description>Recent content in Home on Aitor Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://aitor-m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empty</title>
+      <link>https://aitor-m.github.io/projects/contributions/empty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/contributions/empty/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Real-time Graphics Library for Rasterized Pipelines</title>
+      <link>https://aitor-m.github.io/projects/creations/rtg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/rtg/</guid>
+      <description>This final year project aims to create a command-based Graphics Library that lets the user implement any advanced rasterized graphics techniques as easily as possible.The dissertation reflects the understanding of low-level APIs as well as advanced graphics techniques such as PBR and IBL.
+Features  DirectX 12 Physically Based Rendering Image Based Lighting Deferred Rendering Fully dynamic lights Shadow Mapping Normal Mapping Parallax Mapping  </description>
+    </item>
+    
+    <item>
+      <title>Old Town Stories</title>
+      <link>https://aitor-m.github.io/projects/creations/oldtown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/oldtown/</guid>
+      <description>Old Town Stories is a VR (Oculus Rift) shooter game made with Unreal Engine 4.
+Contribution  &amp;ldquo;VR integration: The player&amp;rsquo;s Pawn VR related input and hand animations integration.&amp;rdquo; VR optimization : Making sure the project had a stable 90 fps was a challenge due to the realistic look of the game. Some of the optimizations were: making sure there were no transparencies, level-streaming, using as simple as posible materials, HLODs, static lights&amp;hellip;&amp;quot; Magnetic Shield (gameplay): Shield which stops, accumulates and returns enemy bullets.</description>
+    </item>
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://aitor-m.github.io/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://aitor-m.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Arena of Warfare</title>
+      <link>https://aitor-m.github.io/projects/creations/aow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/aow/</guid>
+      <description>Arena of Warfare is a tower defense mobile game for Android devices. The main goal is to defend your base against enemy soldiers, planes and tanks. Made with Unity.</description>
+    </item>
+    
+    <item>
+      <title>Gravity Shifter</title>
+      <link>https://aitor-m.github.io/projects/creations/gravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/gravity/</guid>
+      <description>Gravity Shifter is a 2D platformer game based on gravity, movement fluidity and slow motion.
+The Challenge Gravity Shifter is played by using just the two joysticks on the controller. UI included. It was a design request made by my professor @SuperLemonBits!</description>
+    </item>
+    
+    <item>
+      <title>Ray Castings Demo</title>
+      <link>https://aitor-m.github.io/projects/creations/raycasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/raycasting/</guid>
+      <description>This voxel terrain is a low-level (ARM assembly) implementation of height-map rendering used in old-school games.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://aitor-m.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

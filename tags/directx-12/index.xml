@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DirectX 12 on Aitor Martinez</title>
+    <link>https://aitor-m.github.io/tags/directx-12/</link>
+    <description>Recent content in DirectX 12 on Aitor Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://aitor-m.github.io/tags/directx-12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-time Graphics Library for Rasterized Pipelines</title>
+      <link>https://aitor-m.github.io/projects/creations/rtg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitor-m.github.io/projects/creations/rtg/</guid>
+      <description>This final year project aims to create a command-based Graphics Library that lets the user implement any advanced rasterized graphics techniques as easily as possible.The dissertation reflects the understanding of low-level APIs as well as advanced graphics techniques such as PBR and IBL.
+Features  DirectX 12 Physically Based Rendering Image Based Lighting Deferred Rendering Fully dynamic lights Shadow Mapping Normal Mapping Parallax Mapping  </description>
+    </item>
+    
+  </channel>
+</rss>
