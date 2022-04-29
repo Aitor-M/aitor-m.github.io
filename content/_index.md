@@ -11,8 +11,6 @@ outputs:
 
 contactQr: https://randomqr.com/assets/images/randomqr-256.png
 ---
-I am a graphics programming enthusiast that has developed both DirectX 12 and OpenGL engines. I have also been involved in the development of two videogames:
-- Old Town Stories: a VR game made with UE4 which is currently published on Steam.
-- Arena Of Warfare: a tower defense android game published on the Play Store.
+I am a game developer looking for new experiences. I love being sorrounded with dedicated and experienced people in order to learn even more about new ways of working and thinking.
 
-I have been studying programming for six years, the last four specialized in videogames.
+After studying programming for six years, I am currently working at Brainstorm Multimedia, helping with the development of bringing their state of the art actor integration in AR to Unreal Engine 4. Additionally, as of late, I have been working on an app that records the camera and tracks the position of mobile Apple devices and sends it via NDI, bringing camera tracking technology to day to day devices.
